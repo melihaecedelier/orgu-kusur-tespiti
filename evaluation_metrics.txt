@@ -1,0 +1,11 @@
+EVALUATION METRICS SUMMARY:
+==================================
+Accuracy:  %100.00
+Precision: %100.00
+Recall:    %100.00
+F1-Score:  1.0000
+Loss:      0.0000
+
+Confusion Matrix:
+TN: 120, FP: 0
+FN: 0, TP: 30

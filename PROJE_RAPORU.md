@@ -5,7 +5,7 @@
 * **Ders / Program:** Makine Öğrenmesi ile Probleme Uygun Çözüm Geliştirme
 * **Proje Türü:** Derin Öğrenme / Bilgisayarlı Görü (Computer Vision - CNN)
 * **Teslim Türü:** Proje Raporu (3–5 Sayfa)
-* **Kod Erişimi:** [Google Colab & GitHub Proje Notebook Bağlantısı](https://github.com/project-repo/knitwear-defect-detection) *(Öğrenci reposu / Colab bağlantısı raporda yer almaktadır)*
+* **Kod Erişimi:** [GitHub Proje Deposu](https://github.com/melihaecedelier/orgu-kusur-tespiti) | [Google Colab Notebook](https://colab.research.google.com/github/melihaecedelier/orgu-kusur-tespiti/blob/main/knitwear_defect_colab_notebook.ipynb)
 * **Tarih:** 2026
 
 ---

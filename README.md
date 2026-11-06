@@ -34,11 +34,6 @@ Bu depo, tekstil ve triko üretiminde örgü kumaş yüzeyindeki ilmek kaçıkla
 
 ---
 
-## 🚀 Hızlı Başlangıç
-
-### 1. Google Colab Üzerinde Çalıştırma
-`knitwear_defect_colab_notebook.ipynb` dosyasını [Google Colab](https://colab.research.google.com)'e yükleyerek tek tıkla (`Runtime -> Run all`) modeli eğitebilir ve grafikleri görüntüleyebilirsiniz.
-
 ### 2. Yerel Ortamda Çalıştırma
 ```bash
 # Gerekli kütüphaneler:

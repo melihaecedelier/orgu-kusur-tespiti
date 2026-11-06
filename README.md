@@ -7,6 +7,7 @@ Bu depo, tekstil ve triko üretiminde örgü kumaş yüzeyindeki ilmek kaçıkla
 ## 📌 Proje Özeti
 * **Problem Türü:** İkili Sınıflandırma (Hatasız Örgü vs. Kusurlu Örgü)
 * **Model Mimarisi:** 4 Bloklu Özel CNN (Conv2D + MaxPooling + Flatten + Dense + Dropout)
+* **Veri Kaynağı & Standartlar:** [AITEX Fabric Defect Database](https://www.kaggle.com/datasets/belalelshikh/fabric-defects-aitex) & [Kaggle Fabric Defect Dataset](https://www.kaggle.com/datasets/priyanshusethi/fabric-defect-dataset) (Resmi portal: [aitex.es/afid](https://www.aitex.es/afid/))
 * **Veri Seti:** 1.000 adet 128x128 gri tonlamalı makro örgü görüntüsü (%80 Hatasız, %20 Kusurlu - Gerçekçi Sınıf Dengesizliği)
 * **Temel Metrikler (Test Kümesi - 150 Örnek):**
   * **Doğruluk (Accuracy):** %100.00

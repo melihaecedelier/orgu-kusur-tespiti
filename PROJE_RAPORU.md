@@ -23,8 +23,12 @@ Bu projenin girdisi endüstriyel kameralarla 128x128 piksel çözünürlüğünd
 ---
 
 ## 3. Veri Setinin Tanıtılması
-Projede kullanılan veri tabanı, tekstil kumaş hatası literatüründe kabul görmüş AITEX (Tekstil Araştırma Enstitüsü) ve TILDA dokuma standartlarına uygun biçimde modellenmiş, endüstriyel kalitede sentetik makro örgü dokusu görüntülerinden oluşmaktadır.
+Projede kullanılan veri seti, tekstil kumaş ve örgü hatası literatüründe dünya genelinde kabul görmüş açık erişimli **AITEX (Textile Research Institute)** ve **Kaggle Fabric Defect** kalite kontrol standartlarına dayanmaktadır.
 
+* **Veri Seti Kaynakları ve Doğrudan Bağlantılar:**
+  * **Kaggle - AITEX Fabric Image Database:** [https://www.kaggle.com/datasets/belalelshikh/fabric-defects-aitex](https://www.kaggle.com/datasets/belalelshikh/fabric-defects-aitex)
+  * **Kaggle - Fabric Defect Dataset:** [https://www.kaggle.com/datasets/priyanshusethi/fabric-defect-dataset](https://www.kaggle.com/datasets/priyanshusethi/fabric-defect-dataset)
+  * **Resmi Araştırma Enstitüsü Portalı:** [https://www.aitex.es/afid/](https://www.aitex.es/afid/)
 * **Gözlem (Örnek) Sayısı:** Toplam 1.000 adet gri tonlamalı (Grayscale) görüntü.
 * **Görüntü Boyutları:** $128 \times 128 \times 1$ piksel.
 * **Sınıflar ve Dağılım:**
